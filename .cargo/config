@@ -1,5 +1,0 @@
-[build]
-target = "dos.json"
-
-[target.dos]
-runner = "hvdos"
